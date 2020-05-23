@@ -73,7 +73,7 @@ El escenario escogido en el User Journey Map es fiel a las características de J
 El "mood" del particicpante, determina la situación del sistema en el entorno y escenario cotidiano en el que se desarrolla la empresa granadina de coworking.
 
 ###### EXPERIENCIA DE USUARIO 1 (JOSE LUÍS TORRES)
-![Método UX](JourneyMap/jm.PNG)
+![Método UX](JourneyMap/jm.png)
 
 ###### Usability Review
 
