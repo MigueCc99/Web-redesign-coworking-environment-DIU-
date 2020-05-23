@@ -63,3 +63,27 @@ Este punto considero que es clave para poder examinar de manera certera partes d
 
 ###### JULIA RODRIGUEZ
 ![Método UX](Personas/p2.png)
+
+#### User Journey Map
+
+Para el análisis de experiencias de usuario acerca del sistema web que presenta la empresa ErranT, he desarrollado un solo journey map enfocado en la experiencia propia de Jose Luís Torres, mi primera persona ficticia. He considerado un solo punto de vista, puesto que con una simple experiencia de usuario he determinado los principales errores del diseño web que presenta la plataforma.
+
+El escenario escogido en el User Journey Map es fiel a las características de Jose Luís, sin embargo cumple con la experiencia de usuario media que podría tener cualquier usuario interesado en contratar los servicios ofertados por la empresa ErranT, o cualquiera de sus competidores.
+
+El "mood" del particicpante, determina la situación del sistema en el entorno y escenario cotidiano en el que se desarrolla la empresa granadina de coworking.
+
+###### EXPERIENCIA DE USUARIO 1 (JOSE LUÍS TORRES)
+![Método UX](JourneyMap/jm.PNG)
+
+###### Usability Review
+
+A la hora de tener en cuenta la capacidad de usabilidad que tiene el sistema web que ErranT presetnta hacemos uso del método estructurado "Usability Review", el cuál evalua el sistema en función de los principios de usabilidad y buena praxis del mismo.
+
+Es una manera de poner a prueba de manera teórica el sistema tras haberle sometido a pruebas empíricas con otras metodologías. Esto permite generar una aproximación de los putnos débiles del diseño y encontrar partes a perfeccionar.
+
+[[Documento de revisión de usabilidad]](UsabilityReview/Usability-review.pdf)
+
+#### Valoración final (numérica):
+>>> - 76
+
+Según la valoración de la usabilidad podemos determinar que estamos ante un sistema que cumple con las características principales que debería ofrecer. Sin embargo tiene puntos esenciales a mejorar. Principalmente, el sistema debería mostrar una organización mucho más estructurada.
