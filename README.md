@@ -87,3 +87,29 @@ Es una manera de poner a prueba de manera teórica el sistema tras haberle somet
 >>> - 76
 
 Según la valoración de la usabilidad podemos determinar que estamos ante un sistema que cumple con las características principales que debería ofrecer. Sin embargo tiene puntos esenciales a mejorar. Principalmente, el sistema debería mostrar una organización mucho más estructurada.
+
+#### UX Design
+
+#### FeedBack Capture Grid
+
+![Método UX](FeedBackCaptureGrid/fbcg.png)
+
+En este punto del sistema, tras la etapa de investigación y análisis del sistema, entra en juego el "Feedback Capture Grid". Este método es una manera estructurada de organizar el "feedback" que recogemos de la fase de investigación y análisis del sistema.
+
+Es una forma de capturar el feedback en la etapa de diseño y en etapas posteriores en función de la experiencia de los usuarios.
+
+#### Propuesta de Valor 
+
+La propuesta que propongo para el proyecto de reestructuración es crear un entorno minimalista y conciso con gran adaptabilidad tanto para nuevos usuarios como experimentados que se encuentren interesados en lo servicios de coworking que ErranT ofrece. 
+
+De manera general, la estructura de la información en la web debe de ser reestructurada desde el sistema de frontend hasta el backend del mismo. Esto mejoraría la vista y cohesión de los datos que presenta la web y facilitaría la comprensión de los servicios que nos brinda ErranT. Una vez estructurada la web, la navegabilidad que el usuario generaría sería fantástica, resolviendo problemas estructurales clave.
+
+Por otra parte, sería interesante detallar la información abreviada en las páginas principales de la web en forma de anexos a partes del la web organizadas en forma de árbol descendente, que organicen la información de tal forma que sea facil determinar el estado de navegación que estamos sufriendo. Esto resulta clave a la hora de hacer ameno el uso de la web y de recoger información.
+
+En cuanto al contacto con la empresa de manera directa, surgen varios problemas. Estos se deben a que la única manera de comunicarnos con la empresa radica a través del correo-e o en su defecto mantenernos informados por una newsletter periódica. Por ello, es necesario desarrollar e implementar un sistema de chat a tiempo real, de tal manera que el cliente tenga disponible la herramienta perfecta para transmitir sus inquietudes a la empresa y mantenerse fielmente informada, recibiendo el suficiente feedback por parte de ErranT.
+
+Finalmente, un sistema de reseñas ayudaría a tomar decisiones por parte de usuarios a la hora de tomar acción en embarcarse en nuevos proyectos en entornos de coworking como ErranT. Por otra parte, sería una manera de recibir feedback por parte de los clientes finales de ErranT.
+
+#### Conclusión sobre el rediseño
+
+A modo de conclusión sobre el rediseño del sistema web que nos aporta ErranT, cabe destacar el minimalismo y las buenas herramientas que este aporta a disposición de las funcionalidades de los usuarios. Sin embargo, este sistema web mejoraría ampliamente con la inclusión de conceptos como la estructuración web, navegabilidad de la misma, distribución inteligente de la información y métodos de comunicación cliente-empresa.
